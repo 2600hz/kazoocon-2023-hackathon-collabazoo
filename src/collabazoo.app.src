@@ -1,0 +1,8 @@
+{application,collabazoo,
+             [{applications,[]},
+              {description,"Collaborative whiteboarding"},
+              {env,[{is_kazoo_app,true}]},
+              {mod,{collabazoo_app,[]}},
+              {modules,[]},
+              {registered,[]},
+              {vsn,"4.3.0"}]}.
