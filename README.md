@@ -26,7 +26,7 @@ You can try building the KAZOO 4.3 version and running it on KAZOO 5.x, but it i
 
 ### Precompiled
 
-Precompiled versions are available in the [releases](./releases) directory for KAZOO 4.3.142 and 5.3.65.
+Precompiled versions are available on the [releases](../../releases) page for KAZOO 4.3.142 and 5.3.65.
 
 1. Extract the `.tar.gz` to `/opt/kazoo/lib`.
 
